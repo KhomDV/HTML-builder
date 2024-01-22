@@ -1,1 +1,3 @@
-fake styles
+.ext-test-string {
+  display: none;
+}
